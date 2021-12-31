@@ -132,7 +132,7 @@ body{
         transition: all .5s ease-out;
         z-index: -1;
         height: 50vh;
-        visibility: hidden;
+        display: none;
     }
 
     .navbar__menu.active{
